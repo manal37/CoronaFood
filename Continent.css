@@ -1,0 +1,49 @@
+h5{
+font-family:courier;
+    color: #4d88ff;
+font-size:45px;
+text-align:center;
+text-shadow: 4px 4px 4px  #99bbff,6px 6px 0px #ccebff ;
+
+    text-decoration: underline overline solid #008ae6 ;
+
+}
+img{
+    position: relative;
+    left:600px;
+    border: 5px solid #4d94ff;
+    max-width: 100%; 
+    height: auto;
+   
+}
+h4{
+color:rgb(153, 153, 255); 
+    font-size: 45px;
+     font-family:"Brush Script MT", cursive;
+color: #0099cc;text-shadow: 2px 2px 4px #80e5ff;
+}
+mark{  background-color: #ccebff;}
+p{font-weight: bold;
+     background-color:  #004d80;
+  color: #e6f9ff;
+    font-family: courier;
+border: 3px solid #33ccff;}
+
+
+
+
+
+
+h3{
+    color: 	 #4da6ff;
+  font-family:"Brush Script MT", cursive;
+font-size:55px;
+text-align:left;
+text-shadow: 2px 2px 4px  #00ccff;  
+}
+p2{
+     font-weight: bold;
+     background-color:#ffe6e6;
+  color: #ff5050;
+    font-family: courier;
+}

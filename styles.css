@@ -1,0 +1,58 @@
+h5{
+font-family:courier;
+font-size:40px;
+text-align:center;
+text-shadow: 2px 2px 4px #007399 , 8px 8px 6px  #99ccff;
+}
+h2{
+    font-family:verdana;
+color: rgb(102, 153, 255);
+
+}
+img{
+    position: relative;
+    left:500px;
+    border: 5px solid #4da6ff;
+    display: block;
+}
+p1{
+font-family:"Lucida Console", "Courier New", monospace;
+font-style: oblique;
+    font-weight: bold;
+    font-size: 15px;
+    font-variant: normal;
+}
+Table{
+color:rgb(153, 153, 255); 
+    font-size: 45px;
+    font-family:"Brush Script MT", cursive;
+}
+h4{
+    color: rgb(207, 48, 48);
+  font-family:courier;
+font-size:30px;
+text-align:center;
+text-shadow: 2px 2px 4px #000000;  
+}
+p2{
+     font-weight: bold;
+     background-color: lightgrey;
+  color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn-group{
+background-color: #008CBA;
+    color:blue;
+font-size: 20px;
+padding: 14px 40px;
+border-radius: 8px;
+}
+button{
+    background-color: #80ccff;
+    color:blue;
+font-size: 15px;
+    font-family:"Lucida Console", "Courier New", monospace;
+padding: 14px 40px;
+border-radius: 8px;
+}
+

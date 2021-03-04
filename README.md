@@ -6,5 +6,5 @@ Dans cet ensemble de données, On trouve la combinaison des données sur différ
 
 
 # Lien
-https://github.com/manal37/CoronaFood/blob/7a564ac01d376844c76197a91c520785808bc9c0/PageAccueil.html
+https://github.com/manal37/CoronaFood/PageAccueil.html
 

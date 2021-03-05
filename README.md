@@ -9,3 +9,9 @@ Dans cet ensemble de données, On trouve la combinaison des données sur différ
 # Lien
 https://manal37.github.io/CoronaFood/PageAccueil.html
 
+# Tâches à réaliser
+Faire une description globale de tous les continent( Pourcentage des cas confirmés, nombre de population, nombre de population active, nombre des cas guéris et morts, nombre de stimulants consommés, et enfin le pourcentage de la variété et de la mal nutrition), adapter à chaque situation un graphe convenable et réunir tous les graphes dans un dashboard.
+Pour chaque continent à savoir les 5 continents, on va réaliser un dashboard individuel représentant les graphes qui décrivent les aliments les plus et les moins consommés ( bénéfiques pour lutter contre le covid), pourcentage des produits alcholiques, le taux d’obésité, et enfin le taux d’active en fonction de la météo.
+
+
+
